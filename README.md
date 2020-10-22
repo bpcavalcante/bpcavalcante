@@ -9,12 +9,13 @@ Prezo sempre trabalhar em equipe, cooperando com todos e ajudando da melhor form
 
 Busco oportunidades que permitam meu crescimento profissional , assim podendo contribuir com a mesma por muito tempo, à medida que crescemos juntos.
 
+<center>
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpcavalcante&hide=html&layout=compact&theme=buefy" /></td>
     </tr>   
 </table>
-
+</center>
 
 
 
