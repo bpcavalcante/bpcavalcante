@@ -19,3 +19,6 @@ Busco oportunidades que permitam meu crescimento profissional , assim podendo co
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-profeta-cavalcante/)](https://www.linkedin.com/in/bruno-profeta-cavalcante/)
+
+
+Obrigada por me visitar! 👋
