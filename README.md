@@ -37,5 +37,7 @@ Busco oportunidades que permitam meu crescimento profissional , assim podendo co
     </a>
 </p>
 
+<p align = "center>
+      Obrigada por me visitar! 👋      
+</p>
 
-Obrigada por me visitar! 👋
