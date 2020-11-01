@@ -2,7 +2,8 @@
 
 # Seja bem vindo(a)!!😄
 
-### Sou Bruno Profeta Cavalcante !
+<p align = "center">### Sou Bruno Profeta Cavalcante !</p>
+
 
 ### Sobre mim:
 Formado em Técnico em Automação Industrial e Técnico em Administração pela ETEC. Estudante de Análise e desenvolvimento de sistemas . Trabalhei na área de tecnologia voltado a Customer Success em uma startup inovadora aonde tem como grande foco de mercado sua plataforma de gestão e governança de T.I . Atuo no ramo de tecnologia a quase um ano aonde venho adquirindo experiências por onde passo . Comecei minha carreira estagiando na Stefanini IT Solutions onde atuava na área de suporte técnico , minha equipe atuava diretamente ao cliente Duratex , prestava suporte para todos os colaboradores da empresa desde pequenas instalações de softwares a liberação de acesso a sistemas como SAP,Salesforce,VPN,Jira. Logo após atuei como Assistente de Planejamento PCM na Manserv Facilities, onde fazia elaboração do planejamento das equipes de manutenções que atuavam no cliente Fleury, desenvolvia pequenos aplicativos para facilitar no dia-a-dia dos técnicos e supervisores, como um aplicativo de hora extra que computava as horas extras que os técnicos faziam. Atualmente acabei de me formar no Bootcamp da Generation Brasil como Desenvolvedor Full Stack Java Jr , e estou em busca de oportunidades para eu ingressar na área e me desenvolver.
