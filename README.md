@@ -2,7 +2,7 @@
 
 # Seja bem vindo(a)!!😄
 
-<p align = "center">### Sou Bruno Profeta Cavalcante !</p>
+### Sou Bruno Profeta Cavalcante !
 
 
 ### Sobre mim:
