@@ -6,34 +6,17 @@
 
 
 ### Sobre mim:
-Formado em Técnico em Automação Industrial e Técnico em Administração pela ETEC.Formado em Análise e desenvolvimento de sistemas. Trabalhei na área de tecnologia voltado a Customer Success em uma startup inovadora aonde tem como grande foco de mercado sua plataforma de gestão e governança de T.I . Comecei minha carreira estagiando na Stefanini IT Solutions onde atuava na área de suporte técnico , minha equipe atuava diretamente ao cliente Duratex , prestava suporte para todos os colaboradores da empresa desde pequenas instalações de softwares a liberação de acesso a sistemas como SAP,Salesforce,VPN,Jira. Logo após atuei como Assistente de Planejamento PCM na Manserv Facilities, onde fazia elaboração do planejamento das equipes de manutenções que atuavam no cliente Fleury, desenvolvia pequenos aplicativos para facilitar no dia-a-dia dos técnicos e supervisores, como um aplicativo de hora extra que computava as horas extras que os técnicos faziam. Finalizei o Bootcamp da Generation Brasil de Desenvolvedor Full Stack Java Jr , aonde mudou minha vida e me trouxe muitos conhecimentos para minha carreira profissional. Atualmente estou como Engenheiro de Software PL no Itaú Unibanco onde estou alocado na comunidade de Prevenção a Fraudes onde tenho as seguintes responsabilidades:
-- Responsável por evoluir e suportar a plataforma de prevenção a fraudes
-- Avaliação de tecnologias de mercado aderentes às necessidades da empresa, focando em investimento, curva de aprendizagem, Infraestrutura , suporte e roadmap. Sempre enfatizando as melhores soluções para prevenção a fraude.
-- Elaboração de especificações funcionais.
-- Identificação de oportunidades e implementação de melhorias nos processos.
-- Analise técnica e funcional de demandas de média e alta complexidade relacionadas a prevenção a fraude.
+Olá! Sou um engenheiro de software com experiência diversificada em projetos de prevenção a fraudes, plataformas de gestão em TI e suporte técnico em soluções digitais. Atualmente, estou cursando minha pós-graduação em Arquitetura e Desenvolvimento Java na FIAP, aprofundando meu conhecimento nas mais recentes tendências e práticas do mercado.
 
-Tecnologias Utilizadas:
-- Java 8/11
-- Stack Spring
-- Metodologias ágeis (Scrum/Kanban)
-- AWS
-- JUnit
+No Mercado Livre, integro o time de Search Engine, responsável pelo motor de busca que alimenta toda a plataforma na América Latina. Tenho trabalhado intensamente para otimizar a experiência do usuário e garantir resultados precisos e relevantes para milhões de usuários.
 
- E atualmente estou cursando Pós Graduação em Machine Learning Engineering na FIAP
+Anteriormente, passei quase quatro anos no Itaú Unibanco, onde fui responsável por evoluir e suportar a plataforma de prevenção a fraudes, focando em fluxos críticos como onboarding de conta corrente, cartões e financiamentos. Meu trabalho envolveu a utilização de tecnologias como Java, Spring Boot e AWS, aplicando metodologias ágeis para garantir entregas de alta qualidade.
 
- Prezo sempre trabalhar em equipe, cooperando com todos e ajudando da melhor forma que posso , tenho grande satisfação em ensinar e aprender.
+Antes disso, na SENSR.IT - a TIVIT Company, desempenhei um papel crucial na implantação e suporte de plataformas de governança em TI, colaborando diretamente com clientes para garantir o sucesso e eficiência operacional.
 
-<p align="center">
-<table>
-    <tr>
-        <td><img width="430px" align="left" src="https://github-readme-stats.vercel.app/api?username=bpcavalcante&show_icons=true" /></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpcavalcante&hide=html&layout=compact&theme=buefy" /></td>
-    </tr>   
-</table>
-</p>
+Com uma base sólida em engenharia de software e uma paixão por soluções tecnológicas inovadoras, estou sempre buscando novos desafios para aplicar meu conhecimento em ambientes dinâmicos e em constante evolução.
 
-
+Prezo sempre trabalhar em equipe, cooperando com todos e ajudando da melhor forma que posso , tenho grande satisfação em ensinar e aprender.
 
 <p align="center">
     <a href="https://t.me/Bpcavalcante" target="_blank">
